@@ -1,0 +1,121 @@
+{
+  "site": {
+    "name": "Cincinnati Aesthetics",
+    "tagline": "The curated guide to the best med spas & aesthetics clinics in Cincinnati",
+    "description": "A hand-picked, curated directory of the best med spas, aesthetics clinics, and wellness providers in Greater Cincinnati. We've done the research so you can find trusted, quality options.",
+    "city": "Cincinnati",
+    "cta": {
+      "bar": "Get the free Cincinnati Aesthetics guide — 10 med spas we recommend first",
+      "button": "Get the free guide"
+    }
+  },
+  "areas": [
+    { "id": "downtown", "name": "Downtown / OTR" },
+    { "id": "hyde-park", "name": "Hyde Park / Oakley" },
+    { "id": "mason", "name": "Mason / West Chester" },
+    { "id": "blue-ash", "name": "Blue Ash / Montgomery" },
+    { "id": "nky", "name": "Northern Kentucky" }
+  ],
+  "categories": [
+    { "id": "med-spa", "name": "Med Spas", "description": "Injectables, laser, and medical-grade treatments." },
+    { "id": "skin-care", "name": "Skin Care & Facials", "description": "Facials, peels, and advanced skin treatments." },
+    { "id": "laser-hair", "name": "Laser Hair Removal", "description": "Permanent hair reduction and skin rejuvenation." },
+    { "id": "body-contouring", "name": "Body Contouring", "description": "Non-surgical fat reduction and skin tightening." },
+    { "id": "wellness", "name": "Wellness & IV Therapy", "description": "IV drips, hormone therapy, and wellness services." }
+  ],
+  "listings": [
+    {
+      "id": "serein",
+      "name": "Serein Med Spa",
+      "area": "hyde-park",
+      "category": "med-spa",
+      "url": "https://sereinmedspa.com",
+      "highlights": ["Botox & fillers", "Laser treatments", "Medical-grade skin care"],
+      "description": "A boutique med spa in Hyde Park offering injectables, laser treatments, and advanced skin care with a focus on natural results.",
+      "image": "",
+      "featured": true
+    },
+    {
+      "id": "cincinnati-plastic-surgery",
+      "name": "Cincinnati Plastic Surgery",
+      "area": "downtown",
+      "category": "med-spa",
+      "url": "https://www.cincyplasticsurgery.com",
+      "highlights": ["Board-certified surgeons", "Injectables", "Skin resurfacing"],
+      "description": "A full-service plastic surgery and med spa practice in downtown Cincinnati offering surgical and non-surgical aesthetics.",
+      "image": "",
+      "featured": true
+    },
+    {
+      "id": "the-plastic-surgery-group",
+      "name": "The Plastic Surgery Group",
+      "area": "mason",
+      "category": "med-spa",
+      "url": "https://www.psgmd.com",
+      "highlights": ["Botox & fillers", "Laser hair removal", "Skin care"],
+      "description": "A leading med spa and plastic surgery practice in Mason offering a full range of aesthetic treatments.",
+      "image": "",
+      "featured": true
+    },
+    {
+      "id": "renew-med-spa",
+      "name": "Renew Med Spa",
+      "area": "blue-ash",
+      "category": "med-spa",
+      "url": "https://www.renewmedspa.com",
+      "highlights": ["Injectables", "Laser treatments", "Body contouring"],
+      "description": "A modern med spa in Blue Ash offering injectables, laser treatments, and body contouring.",
+      "image": "",
+      "featured": false
+    },
+    {
+      "id": "glow-aesthetics",
+      "name": "Glow Aesthetics & Wellness",
+      "area": "nky",
+      "category": "skin-care",
+      "url": "https://www.glowaestheticsnky.com",
+      "highlights": ["Facials", "Chemical peels", "Microneedling"],
+      "description": "A skin care and wellness studio in Northern Kentucky offering facials, peels, and microneedling.",
+      "image": "",
+      "featured": false
+    },
+    {
+      "id": "laser-skin-solutions",
+      "name": "Laser & Skin Solutions",
+      "area": "hyde-park",
+      "category": "laser-hair",
+      "url": "https://www.laserskinsolutions.com",
+      "highlights": ["Laser hair removal", "Skin rejuvenation", "Tattoo removal"],
+      "description": "Specialists in laser hair removal and skin rejuvenation serving the Hyde Park and Oakley area.",
+      "image": "",
+      "featured": false
+    },
+    {
+      "id": "iv-therapy-cincy",
+      "name": "IV Therapy Cincinnati",
+      "area": "downtown",
+      "category": "wellness",
+      "url": "https://www.ivtherapycincy.com",
+      "highlights": ["IV drips", "Vitamin therapy", "Hydration"],
+      "description": "A wellness lounge in downtown Cincinnati offering IV drips, vitamin therapy, and hydration treatments.",
+      "image": "",
+      "featured": false
+    },
+    {
+      "id": "body-contour-studio",
+      "name": "Body Contour Studio",
+      "area": "mason",
+      "category": "body-contouring",
+      "url": "https://www.bodycontourstudio.com",
+      "highlights": ["CoolSculpting", "Skin tightening", "Cellulite reduction"],
+      "description": "A body contouring studio in Mason specializing in non-surgical fat reduction and skin tightening.",
+      "image": "",
+      "featured": false
+    }
+  ],
+  "faqs": [
+    { "q": "How are businesses chosen for the Cincinnati Aesthetics guide?", "a": "We hand-pick and curate the best med spas and aesthetics providers in Greater Cincinnati based on quality, reputation, and community feedback." },
+    { "q": "How do I get my med spa featured?", "a": "Contact us about featured placements — we offer website exposure and inclusion in our print guide." },
+    { "q": "Is the guide free to use?", "a": "Yes, browsing the directory is completely free. Businesses pay for featured placement." }
+  ]
+}
