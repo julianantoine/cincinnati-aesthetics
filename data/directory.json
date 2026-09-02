@@ -25,17 +25,6 @@
   ],
   "listings": [
     {
-      "id": "serein",
-      "name": "Serein Med Spa",
-      "area": "hyde-park",
-      "category": "med-spa",
-      "url": "https://sereinmedspa.com",
-      "highlights": ["Botox & fillers", "Laser treatments", "Medical-grade skin care"],
-      "description": "A boutique med spa in Hyde Park offering injectables, laser treatments, and advanced skin care with a focus on natural results.",
-      "image": "",
-      "featured": true
-    },
-    {
       "id": "cincinnati-plastic-surgery",
       "name": "Cincinnati Plastic Surgery",
       "area": "downtown",

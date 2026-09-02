@@ -40,4 +40,4 @@ Note: Stripe checkout needs a backend — for GitHub Pages, host the API separat
 1. **Paid listings** — businesses pay monthly to be featured
 2. **Print guide** — design a city guide, mail to neighborhoods; businesses pay $500–$2000 to be featured
 
-**How to get businesses:** make the site look legit first (10-20 solid listings), offer free placements to anchor businesses (Serein is your anchor), then pitch as "we're building a curated city guide."
+**How to get businesses:** make the site look legit first (10-20 solid listings), offer free placements to anchor businesses, then pitch as "we're building a curated city guide."
